@@ -1,0 +1,21 @@
+{
+  "name": "hello-wails",
+  "assetdir": "frontend",
+  "frontend:build": "",
+  "frontend:install": "",
+  "frontend:dev": "",
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "hello-wails.exe",
+  "OutputType": "",
+  "Platform": "",
+  "Author": {
+    "name": "mohaijiang",
+    "email": "haijiang.mo@newtouch.com"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:34115",
+  "appargs": ""
+}
